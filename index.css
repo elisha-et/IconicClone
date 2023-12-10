@@ -768,6 +768,13 @@ footer .bottom .terms {
 }
 
 @media screen and (max-width: 320px) {
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+    }
     nav .menus ul li {
         display: none;
     }
@@ -1039,6 +1046,14 @@ footer .bottom .terms {
 }
 
 @media (min-width: 321px) and (max-width: 376px) {
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+    }
+
     nav .menus ul li {
         display: none;
     }
@@ -1311,6 +1326,14 @@ footer .bottom .terms {
 }
 
 @media (min-width: 377px) and (max-width: 426px) {
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+    }
+
     nav .menus ul li {
         display: none;
     }
@@ -1583,6 +1606,14 @@ footer .bottom .terms {
 }
 
 @media (min-width: 427px) and (max-width: 769px) {
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+    }
+
     nav .menus ul li {
         display: none;
     }
@@ -1871,6 +1902,14 @@ footer .bottom .terms {
 }
 
 @media (min-width: 770px) and (max-width: 880px) {
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+    }
+
     nav .menus ul li {
         display: none;
     }
@@ -2158,6 +2197,14 @@ footer .bottom .terms {
 }
 
 @media (min-width: 881px) and (max-width: 1025px) {
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+    }
+
     nav .menus ul li {
         display: block;
     }
@@ -2431,6 +2478,14 @@ footer .bottom .terms {
 }
 
 @media (min-width: 1026px) and (max-width: 1232px) {
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+    }
+
     nav .menus ul li {
         display: block;
     }
@@ -2703,6 +2758,14 @@ footer .bottom .terms {
 }
 
 @media (min-width: 1233px) and (max-width: 1440px) {
+    html,body{
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+        overflow-x: hidden;
+    }
+
     nav .menus ul li {
         display: block;
     }
